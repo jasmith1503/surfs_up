@@ -11,5 +11,7 @@ The weather ranges in Oahu, HI are tropical and have small swings (mean June tem
 Summary:
 Below are two different histograms which detail the tempures using 12 bins (1 for each "month") 
 - June had over 60+ observatiosn of the tempuature of ~71F 
-- December had over 50 oberservatiosn of the tempuares around 68F
+![June_temps](resources/jun_temps.jpg) 
 
+- December had over 50 oberservatiosn of the tempuares around 68F
+![December_temps](resources/dec_temps.jpg) 
