@@ -9,7 +9,7 @@ The weather ranges in Oahu, HI are tropical and have small swings (mean June tem
 - The location with the fewest observations was in Wahiawa, HI with 511. 
 
 Summary:
-Below are two different histograms which detail the tempures using 12 bins (1 for each "month") 
+Below are two different histograms which detail the temperature using 12 bins (1 for each "month") 
 - June had over 60+ observations of the temperature of ~71F
 
 ![June_temps](resources/jun_temps.jpg) 
